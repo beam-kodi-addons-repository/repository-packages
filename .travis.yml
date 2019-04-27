@@ -1,0 +1,10 @@
+language: python
+install:
+  - pip install md5checker
+script:
+  - '[[ "$(md5checker addons.xml)" == "$(cat addons.xml.md5)" ]]'
+notifications:
+  email: false
+branches:
+  only:
+    - gh-pages
