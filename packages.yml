@@ -5,3 +5,4 @@ service.subtitles.titulky.com:
   :github_release: v1.4.2
   :github_filename: service.subtitles.titulky.com-1.4.2.zip
   :sha256: 97a0d30a524acf908cfde77f91e31bed55a985b99ce70daf4d035911c41eae56
+  :package_file: service.subtitles.titulky.com-1.4.2.zip
