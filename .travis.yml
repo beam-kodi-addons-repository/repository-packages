@@ -1,6 +1,10 @@
 language: ruby
-# install: echo "Install"
 script: exit 0
+before_deploy:
+  - cd $TRAVIS_HOME
+  - git clone https://github.com/beam-kodi-addons-repository/repository-managment.git
+  - cd $TRAVIS_HOME/repository-managment
+  - bundle install
 deploy:
   - provider: script
     script: echo "Deploy script"
