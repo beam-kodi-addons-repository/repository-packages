@@ -1,0 +1,14 @@
+language: ruby
+install: echo "Install"
+script: echo "Script"
+deploy:
+  - provider: script
+    script: echo "Deploy script"
+    skip_cleanup: true
+    on:
+      branch: master
+notifications:
+  email: false
+branches:
+  only:
+    - master
