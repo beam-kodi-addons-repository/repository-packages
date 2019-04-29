@@ -1,6 +1,6 @@
 language: ruby
-install: echo "Install"
-script: echo "Script"
+# install: echo "Install"
+# script: echo "Script"
 deploy:
   - provider: script
     script: echo "Deploy script"
