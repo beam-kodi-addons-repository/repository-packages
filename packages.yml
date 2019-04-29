@@ -6,4 +6,11 @@ service.subtitles.titulky.com:
   :github_filename: service.subtitles.titulky.com-1.4.2.zip
   :sha256: 97a0d30a524acf908cfde77f91e31bed55a985b99ce70daf4d035911c41eae56
   :package_file: service.subtitles.titulky.com-1.4.2.zip
-
+script.skin.helper.service:
+  :type: gh-archive
+  :github_repository: kodi-community-addons/script.skin.helper.service
+  :github_sha: 6b8a82e3ba97bbcba8c44eece0a4ca93bf4c571b
+  :sha256: 639c7ce49713d605d5c84c2545243b3c876c30d4d199511beb3c8f45cf80f90d
+  :addon_id: script.skin.helper.service
+  :addon_version: 1.1.24
+  :package_file: script.skin.helper.service-1.1.24.zip
