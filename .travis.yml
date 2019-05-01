@@ -1,5 +1,5 @@
 language: ruby
-rvm: 2.4
+rvm: 2.6
 script: echo "Just deployment"
 before_deploy:
   - cd $TRAVIS_HOME
