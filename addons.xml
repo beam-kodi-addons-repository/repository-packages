@@ -14,6 +14,20 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
+   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.1' provider-name='Beam'>
+      <requires>
+         <import addon='xbmc.python' version='2.19.0'/>
+         <import addon='script.module.simplejson' version='2.0.10'/>
+      </requires>
+      <extension point='xbmc.python.script' library='program.py'/>
+      <extension point='xbmc.service' library='service.py' start='login'/>
+      <extension point='xbmc.addon.metadata'>
+         <summary lang='en'>Turn off/on TV with screensaver</summary>
+         <description lang='en'>Turn off/on TV with screensaver</description>
+         <source>https://github.com/beam/script.tvpower.screensaver.control</source>
+         <email>ondra@bimovi.cz</email>
+      </extension>
+   </addon>
    <addon id='service.subtitles.nextweek.cz' name='NextWeek.cz' version='1.4.0' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.14.0'/>
