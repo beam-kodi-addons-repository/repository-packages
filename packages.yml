@@ -8,6 +8,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.0.3
   :package_file: repository.beam.xbmc-addons-1.0.3.zip
+service.subtitles.serialzone.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.serialzone.cz
+  :github_release: v1.4.0
+  :github_filename: service.subtitles.serialzone.cz-1.4.0.zip
+  :sha256: cd6110be5ea7b2ec3964777c23c7d6ad67c25607733f7ca9dd507ed1434b8638
+  :addon_id: service.subtitles.serialzone.cz
+  :addon_version: 1.4.0
+  :package_file: service.subtitles.serialzone.cz-1.4.0.zip
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
