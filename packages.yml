@@ -8,6 +8,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.0.3
   :package_file: repository.beam.xbmc-addons-1.0.3.zip
+service.subtitles.edna.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.edna.cz
+  :github_release: v1.4.0
+  :github_filename: service.subtitles.edna.cz-1.4.0.zip
+  :sha256: 1992861d88c70c985144b024a1ec5263b76ef420e10278fe2c56e8cbea50fb27
+  :addon_id: service.subtitles.edna.cz
+  :addon_version: 1.4.0
+  :package_file: service.subtitles.edna.cz-1.4.0.zip
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
