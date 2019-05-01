@@ -5,6 +5,7 @@ before_deploy:
   - git clone https://github.com/beam-kodi-addons-repository/repository-managment.git
   - cd $TRAVIS_HOME/repository-managment
   - bundle install
+  - cd $TRAVIS_HOME
 env:
   global:
     - PKG_LST_USER=beam-kodi-addons-repository
