@@ -8,3 +8,12 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.0.3
   :package_file: repository.beam.xbmc-addons-1.0.3.zip
+service.subtitles.titulky.com:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
+  :github_release: v1.4.2
+  :github_filename: service.subtitles.titulky.com-1.4.2.zip
+  :sha256: bdf79826eee5a75b44e39f72af6cec7c5115e5a5e3e989d13f0a123dea1d3d42
+  :addon_id: service.subtitles.titulky.com
+  :addon_version: 1.4.2
+  :package_file: service.subtitles.titulky.com-1.4.2.zip
