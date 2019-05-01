@@ -12,7 +12,9 @@ env:
     - PKG_LST_REPO=repository-packages
 deploy:
   - provider: script
-    script: repository-managment/create-repository-from-list.rb -u $PKG_LST_USER -n $PKG_LST_REPO
+    script:
+      - gem list
+      - repository-managment/create-repository-from-list.rb -u $PKG_LST_USER -n $PKG_LST_REPO
     skip_cleanup: true
     on:
       branch: master
