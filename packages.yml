@@ -8,6 +8,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.0.3
   :package_file: repository.beam.xbmc-addons-1.0.3.zip
+service.subtitles.nextweek.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.nextweek.cz
+  :github_release: v1.4.0
+  :github_filename: service.subtitles.nextweek.cz-1.4.0.zip
+  :sha256: c237afd6449c4992744701158d66c32bb4a10e0b801c33e6ffa594bdf666fe96
+  :addon_id: service.subtitles.nextweek.cz
+  :addon_version: 1.4.0
+  :package_file: service.subtitles.nextweek.cz-1.4.0.zip
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
