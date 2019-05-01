@@ -1,10 +1,11 @@
 language: ruby
-install:
+rvm: 2.4
+script: echo "Just deployment"
+before_deploy:
   - cd $TRAVIS_HOME
   - git clone https://github.com/beam-kodi-addons-repository/repository-managment.git
   - cd $TRAVIS_HOME/repository-managment
   - bundle install
-script:
   - cd $TRAVIS_HOME
 env:
   global:
