@@ -14,6 +14,21 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
+   <addon id='service.subtitles.nextweek.cz' name='NextWeek.cz' version='1.4.0' provider-name='Beam'>
+      <requires>
+         <import addon='xbmc.python' version='2.14.0'/>
+         <import addon='script.module.simplejson' version='2.0.10'/>
+      </requires>
+      <extension point='xbmc.subtitle.module' library='service.py'/>
+      <extension point='xbmc.addon.metadata'>
+         <summary>NextWeek.cz</summary>
+         <description lang='en'>Search and download subtitles from nextweek.cz (Czech only)</description>
+         <description lang='cs'>Vyhledavani a stahovani titulku z nextweek.cz</description>
+         <description lang='sk'>Vyhladavanie a stahovanie titulkov z nextweek.cz</description>
+         <source>https://github.com/beam/service.subtitles.nextweek.cz</source>
+         <email>ondra@bimovi.cz</email>
+      </extension>
+   </addon>
    <addon id='service.subtitles.titulky.com' name='Titulky.com' version='1.4.2' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.14.0'/>
