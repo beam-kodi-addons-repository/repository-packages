@@ -1,5 +1,5 @@
 language: ruby
-script: exit 0
+script: echo "Just deployment"
 before_deploy:
   - cd $TRAVIS_HOME
   - git clone https://github.com/beam-kodi-addons-repository/repository-managment.git
