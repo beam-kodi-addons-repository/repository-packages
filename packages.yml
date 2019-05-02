@@ -58,7 +58,7 @@ service.subtitles.titulky.com:
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
   :github_release: v1.4.2
   :github_filename: service.subtitles.titulky.com-1.4.2.zip
-  :sha256: bdf79826eee5a75b44e39f72af6cec7c5115e5a5e3e989d13f0a123dea1d3d42
+  :sha256: 2f637569faaf0bb87b60d1b0d7228a2ec93e62c14943de5a3357678d790a06eb
   :addon_id: service.subtitles.titulky.com
   :addon_version: 1.4.2
   :package_file: service.subtitles.titulky.com-1.4.2.zip
