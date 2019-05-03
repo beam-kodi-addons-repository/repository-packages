@@ -49,7 +49,7 @@ service.subtitles.serialzone.cz:
   :github_repository: beam-kodi-addons-repository/service.subtitles.serialzone.cz
   :github_release: v1.4.0
   :github_filename: service.subtitles.serialzone.cz-1.4.0.zip
-  :sha256: cd6110be5ea7b2ec3964777c23c7d6ad67c25607733f7ca9dd507ed1434b8638
+  :sha256: c2fbd04327600f4649aec6079c6ed7e2ff18a776032ffab68e69953771cbb255
   :addon_id: service.subtitles.serialzone.cz
   :addon_version: 1.4.0
   :package_file: service.subtitles.serialzone.cz-1.4.0.zip
