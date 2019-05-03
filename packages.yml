@@ -24,6 +24,14 @@ script.module.metadatautils:
   :addon_id: script.module.metadatautils
   :addon_version: 1.0.19
   :package_file: script.module.metadatautils-1.0.19.zip
+script.module.simplecache:
+  :type: gh-repository
+  :github_repository: kodi-community-addons/script.module.simplecache
+  :github_sha: 19b6ade40ff8cb80b75ca92a32aebdbd74a6f156
+  :sha256: 0b639e2b5783ddda4db2d544cd60a6652ad1f1e47c42ab43410cb91f9e6aa367
+  :addon_id: script.module.simplecache
+  :addon_version: 1.0.16
+  :package_file: script.module.simplecache-1.0.16.zip
 script.skin.helper.service:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.skin.helper.service
