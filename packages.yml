@@ -22,7 +22,7 @@ script.tvshowtime.rework:
   :github_repository: beam-kodi-addons-repository/script.tvshowtime.rework
   :github_release: v1.2.3
   :github_filename: script.tvshowtime.rework-1.2.3.zip
-  :sha256: ec07c8244e1633e4351f3b5f9a648b3876f190401ace5540250577b881f25f10
+  :sha256: 8f1ebfd9047645febc0cd7fa345daab3999671824cdd08c1b9f8d4b6750514df
   :addon_id: script.tvshowtime.rework
   :addon_version: 1.2.3
   :package_file: script.tvshowtime.rework-1.2.3.zip
