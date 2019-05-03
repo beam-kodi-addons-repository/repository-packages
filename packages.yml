@@ -16,6 +16,14 @@ script.module.cherrypy:
   :addon_id: script.module.cherrypy
   :addon_version: 11.0.1
   :package_file: script.module.cherrypy-11.0.1.zip
+script.module.metadatautils:
+  :type: gh-repository
+  :github_repository: kodi-community-addons/script.module.metadatautils
+  :github_sha: 8bb657e03c0172c81d2d637a33ebbf22c565f8cc
+  :sha256: 6f913607087400518b3d8a30d86e045f6d38cff0e1cdab3b6024581ab716a3fb
+  :addon_id: script.module.metadatautils
+  :addon_version: 1.0.19
+  :package_file: script.module.metadatautils-1.0.19.zip
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
