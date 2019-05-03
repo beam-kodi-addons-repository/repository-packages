@@ -40,7 +40,7 @@ service.subtitles.nextweek.cz:
   :github_repository: beam-kodi-addons-repository/service.subtitles.nextweek.cz
   :github_release: v1.4.0
   :github_filename: service.subtitles.nextweek.cz-1.4.0.zip
-  :sha256: c237afd6449c4992744701158d66c32bb4a10e0b801c33e6ffa594bdf666fe96
+  :sha256: aaee2ed70de0eb5ee623734ee1db07a0cab4db1da5f882af2ff54fc0b9230eb6
   :addon_id: service.subtitles.nextweek.cz
   :addon_version: 1.4.0
   :package_file: service.subtitles.nextweek.cz-1.4.0.zip
