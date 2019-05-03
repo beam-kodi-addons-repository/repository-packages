@@ -56,9 +56,9 @@ service.subtitles.serialzone.cz:
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
-  :github_release: v1.4.2
+  :github_release: v1.4.2a
   :github_filename: service.subtitles.titulky.com-1.4.2.zip
-  :sha256: 2f637569faaf0bb87b60d1b0d7228a2ec93e62c14943de5a3357678d790a06eb
+  :sha256: 13c763bce2f331053d75229afa09490f5f74f8e9b66294fbc7ec37f7d2401bf9
   :addon_id: service.subtitles.titulky.com
   :addon_version: 1.4.2
   :package_file: service.subtitles.titulky.com-1.4.2.zip
