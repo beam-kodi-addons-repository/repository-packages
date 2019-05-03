@@ -31,7 +31,7 @@ service.subtitles.edna.cz:
   :github_repository: beam-kodi-addons-repository/service.subtitles.edna.cz
   :github_release: v1.4.0
   :github_filename: service.subtitles.edna.cz-1.4.0.zip
-  :sha256: 1992861d88c70c985144b024a1ec5263b76ef420e10278fe2c56e8cbea50fb27
+  :sha256: 03a155a45be957546bb729cda122a25c0725144ed9ef8b5e198520221942d826
   :addon_id: service.subtitles.edna.cz
   :addon_version: 1.4.0
   :package_file: service.subtitles.edna.cz-1.4.0.zip
