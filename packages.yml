@@ -24,6 +24,14 @@ script.module.metadatautils:
   :addon_id: script.module.metadatautils
   :addon_version: 1.0.19
   :package_file: script.module.metadatautils-1.0.19.zip
+script.skin.helper.service:
+  :type: gh-repository
+  :github_repository: kodi-community-addons/script.skin.helper.service
+  :github_sha: 6b8a82e3ba97bbcba8c44eece0a4ca93bf4c571b
+  :sha256: 538fe0f57d8b082b6235cb1e66cbad3d812d969ea5cf5f93a8489d3d281066d4
+  :addon_id: script.skin.helper.service
+  :addon_version: 1.1.24
+  :package_file: script.skin.helper.service-1.1.24.zip
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
