@@ -12,7 +12,7 @@ script.module.cherrypy:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.module.cherrypy
   :github_sha: 2573349bb7bba9b46102387ef3105f75cc8a82f9
-  :sha256: efbe58053e7b24e7740113a572e65abf5962dc6783e6a042e49c72d28ff0d315
+  :sha256: ea5f1910df992d68b097d212d7254b85243ea84ba57fb0ef99e09b7ecfab54a1
   :addon_id: script.module.cherrypy
   :addon_version: 11.0.1
   :package_file: script.module.cherrypy-11.0.1.zip
