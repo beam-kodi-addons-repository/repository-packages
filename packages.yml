@@ -44,7 +44,7 @@ script.skin.helper.widgets:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.skin.helper.widgets
   :github_sha: 612999dc3021e1fcd57a01ef14ce473f47bfc48f
-  :sha256: 5ce88ca0ee118ca287d5dd5aaa33cdbfde6d1154f90a119c5cb13ca87b965e6c
+  :sha256: 0fa38ae580d571c454152abc9dddd8ac482c577d5732252e2f331bbbbb65f731
   :addon_id: script.skin.helper.widgets
   :addon_version: 1.0.38
   :package_file: script.skin.helper.widgets-1.0.38.zip
