@@ -28,7 +28,7 @@ script.module.simplecache:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.module.simplecache
   :github_sha: 19b6ade40ff8cb80b75ca92a32aebdbd74a6f156
-  :sha256: 0b639e2b5783ddda4db2d544cd60a6652ad1f1e47c42ab43410cb91f9e6aa367
+  :sha256: 33e5df63017049f0aed4f43f054b5650ec2d838b81066f809fefd71438e9b8bc
   :addon_id: script.module.simplecache
   :addon_version: 1.0.16
   :package_file: script.module.simplecache-1.0.16.zip
