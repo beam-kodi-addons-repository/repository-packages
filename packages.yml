@@ -36,7 +36,7 @@ script.skin.helper.service:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.skin.helper.service
   :github_sha: 6b8a82e3ba97bbcba8c44eece0a4ca93bf4c571b
-  :sha256: 538fe0f57d8b082b6235cb1e66cbad3d812d969ea5cf5f93a8489d3d281066d4
+  :sha256: 9251307b50066dec22afd3d413e0b6c9667cfda67fe7b573d3c07a95c5af8a4c
   :addon_id: script.skin.helper.service
   :addon_version: 1.1.24
   :package_file: script.skin.helper.service-1.1.24.zip
