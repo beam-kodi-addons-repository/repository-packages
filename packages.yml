@@ -20,7 +20,7 @@ script.module.metadatautils:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.module.metadatautils
   :github_sha: 8bb657e03c0172c81d2d637a33ebbf22c565f8cc
-  :sha256: 80f1ae988924f6f405659460e375d71f0edd5b73f0953a844652b343490ad4b9
+  :sha256: 965d33c6434c029c9b7ad6746312189c2d48ef303903b73d3e1f36c62320db1e
   :addon_id: script.module.metadatautils
   :addon_version: 1.0.19
   :package_file: script.module.metadatautils-1.0.19.zip
