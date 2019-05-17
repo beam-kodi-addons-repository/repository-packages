@@ -17,13 +17,14 @@ script.module.cherrypy:
   :addon_version: 11.0.1
   :package_file: script.module.cherrypy-11.0.1.zip
 script.module.metadatautils:
-  :type: gh-repository
-  :github_repository: kodi-community-addons/script.module.metadatautils
-  :github_sha: 8bb657e03c0172c81d2d637a33ebbf22c565f8cc
-  :sha256: 965d33c6434c029c9b7ad6746312189c2d48ef303903b73d3e1f36c62320db1e
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/script.module.metadatautils
+  :github_release: v1.0.20a
+  :github_filename: script.module.metadatautils-1.0.20a.zip
+  :sha256: e5145f2ce8d2f970cff6cd76f5760dda899be252d03e89b2f254ad71296490fe
   :addon_id: script.module.metadatautils
-  :addon_version: 1.0.19
-  :package_file: script.module.metadatautils-1.0.19.zip
+  :addon_version: 1.0.20a
+  :package_file: script.module.metadatautils-1.0.20a.zip
 script.module.simplecache:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.module.simplecache
