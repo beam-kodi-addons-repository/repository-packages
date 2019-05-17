@@ -36,7 +36,7 @@
          <platform>all</platform>
       </extension>
    </addon>
-   <addon id='script.module.metadatautils' name='Metadata and Artwork module' version='1.0.19' provider-name='marcelveldt'>
+   <addon id='script.module.metadatautils' name='Metadata and Artwork module' version='1.0.20a' provider-name='marcelveldt'>
       <requires>
          <import addon='xbmc.python' version='2.24.0'/>
          <import addon='script.module.requests' version='2.3.0'/>
