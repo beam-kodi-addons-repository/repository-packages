@@ -164,7 +164,7 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
-   <addon id='script.tvshowtime.rework' name='TVShowTime.com' version='1.2.3' provider-name='Beam'>
+   <addon id='script.tvshowtime.rework' name='TVTime.com' version='1.2.4' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.19.0'/>
          <import addon='script.module.simplejson' version='2.0.10'/>
@@ -174,8 +174,8 @@
       </extension>
       <extension point='xbmc.service' library='service.py' start='login'/>
       <extension point='xbmc.addon.metadata'>
-         <summary lang='en'>TVShowTime.com</summary>
-         <description lang='en'>Automatically set episodes as watched on tvshowtime.com</description>
+         <summary lang='en'>TVTime.com</summary>
+         <description lang='en'>Automatically set episodes as watched on tvtime.com</description>
          <source>https://github.com/beam/script.tvshowtime.rework</source>
          <email>ondra@bimovi.cz</email>
       </extension>
