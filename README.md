@@ -47,6 +47,7 @@ Repositar obsahuje
   * [script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service)
   * [script.skin.helper.widgets](https://github.com/kodi-community-addons/script.skin.helper.widgets)
   * [script.module.simplecache](https://github.com/kodi-community-addons/script.module.simplecache)
+  * [skin.amber](https://github.com/bartolomesoriano/skin.amber)
 
 Statistiky (poslednich 14 dni)
 ----------------------------
