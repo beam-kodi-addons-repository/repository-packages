@@ -52,12 +52,12 @@ script.skin.helper.widgets:
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
-  :github_release: v1.0.1
-  :github_filename: script.tvpower.screensaver.control-1.0.1.zip
-  :sha256: 7f05d9480102000f664b54e32efdfd8d510b3f1b5df80818e934156f0ebe0a69
+  :github_release: v1.0.2
+  :github_filename: script.tvpower.screensaver.control-1.0.2.zip
+  :sha256: e9f324de9b7bf2b9567b6fed81497879f03af0713279a971a694d53b958cb40e
   :addon_id: script.tvpower.screensaver.control
-  :addon_version: 1.0.1
-  :package_file: script.tvpower.screensaver.control-1.0.1.zip
+  :addon_version: 1.0.2
+  :package_file: script.tvpower.screensaver.control-1.0.2.zip
 script.tvshowtime.rework:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvshowtime.rework
