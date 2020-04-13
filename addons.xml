@@ -268,7 +268,7 @@
          </assets>
       </extension>
    </addon>
-   <addon id='skin.amber' version='3.2.31' name='Amber' provider-name='Jester, Joethepartylion, Pecinko, bsoriano'>
+   <addon id='skin.amber' version='3.2.58' name='Amber' provider-name='Jester, Joethepartylion, Pecinko, bsoriano'>
       <requires>
          <import addon='xbmc.gui' version='5.14.0'/>
          <import addon='script.favourites' version='7.1.1'/>
@@ -451,29 +451,31 @@
             <screenshot>resources/screenshot10.jpg</screenshot>
          </assets>
          <news>
-            3.2.31 (11-12-2019) - Start in skin backgrounds folder for selecting
-            menu item backgrounds 3.2.30 (27-11-2019) - Remove dependency on
-            skin helper service for addon infolines 3.2.29 (25-10-2019) - Make
-            shutdown menu customizable - Fixes to music and video OSD for
-            non-puasable items - Misc. fixes 3.2.28 (23-10-2019) - Show Season
-            in episode info details. Click to jump to season 3.2.27 (19-10-2019)
-            - Fixes for Music OSD 3.2.26 (18-10-2019) - Fixes for playback from
-            sets info - Add missing options to Extras for shelf items - Misc.
-            fixes 3.2.25 (13-10-2019) - Add use poster for blur 3.2.24
-            (13-10-2019) - Fixes - Update Brazilian Portuguese translation
-            3.2.23 (12-10-2019) - Remove all Matrix code from Leia version
-            3.2.22 (09-10-2019) - Fixes to blur settings - Changes to fanart
-            view - Make TV Show clickable for episodes in video info 3.2.21
-            (07-10-2019) - Fixes for latest tmdb helper version 3.2.20
-            (06-10-2019) - Many changes! (please see changelog.txt) 3.2.9
-            (24-07-2019) - Make home background title clickable. Opens custom
-            search. 3.2.8 (20-07-2019) - Fix missing updates to the Amber repo -
-            Fix sets info in Matrix when Extendedinfo enabled 3.2.7 (19-07-2019)
-            - Add missing skin playlists default shelves - Misc. fixes 3.2.6
-            (19-07-2019) - Show Ratings as percent - Be able to expand addon
-            description in info 3.2.5 (17-07-2019) - Add missing skinning
-            changes for Kodi Matrix 3.2.4 (16-07-2019) - Update French
-            translation
+            3.2.58 (06-04-2020) - Add per-view, per media type disable panel and
+            swap panel list view options - Add larger image option for pictures
+            in list views - Misc. Fixes 3.2.57 (30-03-2020) - Fix Up Next labels
+            - Misc. Fixes 3.2.56 (28-03-2020) - Separate options to show main
+            rating and cert in media views 3.2.55 (27-03-2020) - More Fixes for
+            default view when switching skins 3.2.54 (27-03-2020) - More Fixes
+            for default view when switching skins 3.2.53 (27-03-2020) - Fix for
+            default view when switching skins 3.2.52 (23-03-2020) - More fixes
+            for cutoff text in list views 3.2.51 (19-03-2020) - Fix cutoff text
+            in list view when audio/subs not shown - Add option to show/hide
+            main rating and MPAA in media views - Add option to select which
+            ratings are shown in video info - Add option to show/hide user
+            rating 3.2.50 (18-03-2020) - Fix label in French 3.2.49 (17-03-2020)
+            - More PVR fixes 3.2.48 (17-03-2020) - Fix for color of labels in
+            player process info - Fix for pvr recording widgets in horizontal
+            menu 3.2.47 (16-03-2020) - Fix for posters not changing in List
+            views - Fix for subtitle popup in Video OSD. Fix for Next Aired
+            images - Fix for icons in different dialogs - Fix for TV Shows with
+            no duration - Make Amber default backgrounds available as background
+            options - Misc. fixes in PVR 3.2.46 (09-03-2020) - Add
+            language/subtitle info to media views - Make info panel optional in
+            list views - Make channel groups optional in PVR Guide - Add clear
+            logo to home and appropriate media views - Make embuary helper and
+            tmdb helper optional - Custom Next Aired windows for embuary info
+            and tmdb helper - Misc. fixes 
          </news>
       </extension>
    </addon>
