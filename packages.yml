@@ -114,8 +114,8 @@ service.upnext:
 skin.amber:
   :type: gh-repository
   :github_repository: bartolomesoriano/skin.amber
-  :github_sha: 5a56e3860a3ca27c136e99b2ba35f658ef25e48c
-  :sha256: 47897a3d750237b3607ae35b83754f32ac7be7d277e926cb66188bf307300233
+  :github_sha: ee6f4e202a196e7195f45c309fae9d13ba833afb
+  :sha256: a1262b6b1bdc88ba7a4a852eb5ba008b1cc60be4c372743730b0c7df8a03eb03
   :addon_id: skin.amber
-  :addon_version: 3.2.31
-  :package_file: skin.amber-3.2.31.zip
+  :addon_version: 3.2.58
+  :package_file: skin.amber-3.2.58.zip
