@@ -49,6 +49,15 @@ script.skin.helper.widgets:
   :addon_id: script.skin.helper.widgets
   :addon_version: 1.0.38
   :package_file: script.skin.helper.widgets-1.0.38.zip
+script.tv.show.next.aired:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/test-actions
+  :github_release: v1.0.27
+  :github_filename: script.tv.show.next.aired-6.0.16a.zip
+  :sha256: 1a29beec2ad52591e22e3e99b71f712ae4e4b6ff5dbffe2a371e0b908ad90747
+  :addon_id: script.tv.show.next.aired
+  :addon_version: 6.0.16a
+  :package_file: script.tv.show.next.aired-6.0.16a.zip
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
