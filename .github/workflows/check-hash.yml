@@ -1,0 +1,21 @@
+name: Create kodi package and release
+on: 
+  push:
+    breanches: gh-pages
+  pull_request:
+    branches: gh-pages
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.7
+    - name: Pull source
+      uses: actions/checkout@v2
+    - name: Install MD5checker
+      run: pip3 install md5checker
+    - name: Test md5checker
+      run: '[[ "$(md5checker addons.xml)" == "$(cat addons.xml.md5)" ]]'
