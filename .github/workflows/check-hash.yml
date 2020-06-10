@@ -1,9 +1,5 @@
 name: Create kodi package and release
-on: 
-  push:
-    breanches: gh-pages
-  pull_request:
-    branches: gh-pages
+on: [ push, pull_request ]
 
 jobs:
   deployment:
