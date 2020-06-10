@@ -1,0 +1,27 @@
+name: Deploy kodi packages into repository
+on: 
+  push:
+    branches: master
+
+jobs:
+  deployment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Ruby 2.6
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Fetch Repository Managment
+        run: git clone --depth 1 https://github.com/beam-kodi-addons-repository/repository-managment.git
+      - name: Install Repository Managment Dependencies
+        run: bundle install
+        working-directory: repository-managment
+      - name: Create pull request with updated kodi repository
+        run: repository-managment/create-repository-from-list.rb -u $PKG_LST_USER -n $PKG_LST_REPO
+        env:
+          PKG_LST_USER: beam-kodi-addons-repository
+          PKG_LST_REPO: repository-packages
+          GITHUB_USER: ${{ github.actor }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIT_USER_NAME: Beam (GitHub Actions)
+          GIT_USER_EMAIL: ondra+github-actions@bimovi.cz
