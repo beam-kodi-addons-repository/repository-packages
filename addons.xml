@@ -275,7 +275,7 @@
          <source>https://github.com/WayneD/script.tv.show.next.aired.git</source>
       </extension>
    </addon>
-   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.2' provider-name='Beam'>
+   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.3' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.19.0'/>
          <import addon='script.module.simplejson' version='2.0.10'/>
@@ -285,7 +285,9 @@
       <extension point='xbmc.addon.metadata'>
          <summary lang='en'>Turn off/on TV with screensaver</summary>
          <description lang='en'>Turn off/on TV with screensaver</description>
-         <source>https://github.com/beam/script.tvpower.screensaver.control</source>
+         <source>
+            https://github.com/beam-kodi-addons-repository/script.tvpower.screensaver.control
+         </source>
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
