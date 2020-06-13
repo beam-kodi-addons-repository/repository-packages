@@ -61,12 +61,12 @@ script.tv.show.next.aired:
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
-  :github_release: v1.0.2
-  :github_filename: script.tvpower.screensaver.control-1.0.2.zip
-  :sha256: e9f324de9b7bf2b9567b6fed81497879f03af0713279a971a694d53b958cb40e
+  :github_release: v1.0.3
+  :github_filename: script.tvpower.screensaver.control-1.0.3.zip
+  :sha256: 7d481919b211f9d1ada1b1bf75d1fbc6a6da83b71837cfcd9bc26eaf3a3982b8
   :addon_id: script.tvpower.screensaver.control
-  :addon_version: 1.0.2
-  :package_file: script.tvpower.screensaver.control-1.0.2.zip
+  :addon_version: 1.0.3
+  :package_file: script.tvpower.screensaver.control-1.0.3.zip
 script.tvshowtime.rework:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvshowtime.rework
