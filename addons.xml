@@ -275,7 +275,7 @@
          <source>https://github.com/WayneD/script.tv.show.next.aired.git</source>
       </extension>
    </addon>
-   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.3' provider-name='Beam'>
+   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.4' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.19.0'/>
          <import addon='script.module.simplejson' version='2.0.10'/>
