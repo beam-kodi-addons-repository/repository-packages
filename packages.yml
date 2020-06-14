@@ -106,12 +106,12 @@ service.subtitles.serialzone.cz:
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
-  :github_release: v1.4.2
-  :github_filename: service.subtitles.titulky.com-1.4.2.zip
-  :sha256: 13c763bce2f331053d75229afa09490f5f74f8e9b66294fbc7ec37f7d2401bf9
+  :github_release: v1.5.0
+  :github_filename: service.subtitles.titulky.com-1.5.0.zip
+  :sha256: 61d46c4694d6717f902ed3153cff2661e05c6925b711adc8d91efcfc55e70cca
   :addon_id: service.subtitles.titulky.com
-  :addon_version: 1.4.2
-  :package_file: service.subtitles.titulky.com-1.4.2.zip
+  :addon_version: 1.5.0
+  :package_file: service.subtitles.titulky.com-1.5.0.zip
 service.upnext:
   :type: gh-repository
   :github_repository: im85288/service.upnext
