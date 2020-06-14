@@ -150,7 +150,7 @@
          <source>https://github.com/marcelveldt/script.skin.helper.widgets</source>
       </extension>
    </addon>
-   <addon id='script.tv.show.next.aired' name='TV Show - Next Aired' version='6.0.16a' provider-name='Ppic,Frost,ronie,`Black,phil65,WayneD'>
+   <addon id='script.tv.show.next.aired' name='TV Show - Next Aired' version='6.0.16b' provider-name='Ppic,Frost,ronie,`Black,phil65,WayneD'>
       <requires>
          <import addon='xbmc.python' version='2.1.0'/>
          <import addon='script.module.simplejson' version='2.0.10'/>
@@ -275,7 +275,7 @@
          <source>https://github.com/WayneD/script.tv.show.next.aired.git</source>
       </extension>
    </addon>
-   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.6' provider-name='Beam'>
+   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='1.0.7' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.19.0'/>
          <import addon='script.module.simplejson' version='2.0.10'/>
