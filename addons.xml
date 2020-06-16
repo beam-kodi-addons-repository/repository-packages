@@ -337,21 +337,6 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
-   <addon id='service.subtitles.serialzone.cz' name='SerialZone.cz' version='1.4.0' provider-name='Beam'>
-      <requires>
-         <import addon='xbmc.python' version='2.14.0'/>
-         <import addon='script.module.simplejson' version='2.0.10'/>
-      </requires>
-      <extension point='xbmc.subtitle.module' library='service.py'/>
-      <extension point='xbmc.addon.metadata'>
-         <summary>SerialZone.cz</summary>
-         <description lang='en'>Search and download subtitles from serialzone.cz (Czech/Slovak only)</description>
-         <description lang='cs'>Vyhledavani a stahovani titulku ze serialzone.cz</description>
-         <description lang='sk'>Vyhladavanie a stahovanie titulkov zo serialzone.cz</description>
-         <source>https://github.com/beam/service.subtitles.serialzone.cz</source>
-         <email>ondra@bimovi.cz</email>
-      </extension>
-   </addon>
    <addon id='service.subtitles.titulky.com' name='Titulky.com' version='1.5.0' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.14.0'/>
@@ -365,34 +350,6 @@
          <description lang='sk'>Vyhľadávanie a sťahovanie titulkov z titulky.com</description>
          <source>https://github.com/beam/service.subtitles.titulky.com</source>
          <email>ondra@bimovi.cz</email>
-      </extension>
-   </addon>
-   <addon id='service.upnext' name='Up Next' provider-name='im85288' version='1.0.3'>
-      <requires>
-         <import addon='script.module.requests' version='2.9.1'/>
-         <import addon='xbmc.python' version='2.26.0'/>
-      </requires>
-      <extension library='service.py' point='xbmc.service'/>
-      <extension point='xbmc.addon.metadata'>
-         <summary lang='en_GB'>
-            Provides a netflix style pop up notification for watching the next
-            episode with fancy/simple modes. 
-         </summary>
-         <description lang='en_GB'>
-            Provides a netflix style pop up notification for watching the next
-            episode with fancy/simple modes. A prompt to check if your still
-            watching also occurs after a few automatically watched shows in a
-            row. 
-         </description>
-         <platform>all</platform>
-         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-            <screenshot>resources/screenshot-02.jpg</screenshot>
-            <screenshot>resources/screenshot-03.jpg</screenshot>
-            <screenshot>resources/screenshot-04.jpg</screenshot>
-         </assets>
       </extension>
    </addon>
    <addon id='skin.amber' version='3.2.58' name='Amber' provider-name='Jester, Joethepartylion, Pecinko, bsoriano'>
