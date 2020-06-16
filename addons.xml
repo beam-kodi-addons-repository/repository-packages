@@ -337,21 +337,6 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
-   <addon id='service.subtitles.serialzone.cz' name='SerialZone.cz' version='1.4.0' provider-name='Beam'>
-      <requires>
-         <import addon='xbmc.python' version='2.14.0'/>
-         <import addon='script.module.simplejson' version='2.0.10'/>
-      </requires>
-      <extension point='xbmc.subtitle.module' library='service.py'/>
-      <extension point='xbmc.addon.metadata'>
-         <summary>SerialZone.cz</summary>
-         <description lang='en'>Search and download subtitles from serialzone.cz (Czech/Slovak only)</description>
-         <description lang='cs'>Vyhledavani a stahovani titulku ze serialzone.cz</description>
-         <description lang='sk'>Vyhladavanie a stahovanie titulkov zo serialzone.cz</description>
-         <source>https://github.com/beam/service.subtitles.serialzone.cz</source>
-         <email>ondra@bimovi.cz</email>
-      </extension>
-   </addon>
    <addon id='service.subtitles.titulky.com' name='Titulky.com' version='1.5.0' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='2.14.0'/>
@@ -367,35 +352,7 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
-   <addon id='service.upnext' name='Up Next' provider-name='im85288' version='1.0.3'>
-      <requires>
-         <import addon='script.module.requests' version='2.9.1'/>
-         <import addon='xbmc.python' version='2.26.0'/>
-      </requires>
-      <extension library='service.py' point='xbmc.service'/>
-      <extension point='xbmc.addon.metadata'>
-         <summary lang='en_GB'>
-            Provides a netflix style pop up notification for watching the next
-            episode with fancy/simple modes. 
-         </summary>
-         <description lang='en_GB'>
-            Provides a netflix style pop up notification for watching the next
-            episode with fancy/simple modes. A prompt to check if your still
-            watching also occurs after a few automatically watched shows in a
-            row. 
-         </description>
-         <platform>all</platform>
-         <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-            <screenshot>resources/screenshot-01.jpg</screenshot>
-            <screenshot>resources/screenshot-02.jpg</screenshot>
-            <screenshot>resources/screenshot-03.jpg</screenshot>
-            <screenshot>resources/screenshot-04.jpg</screenshot>
-         </assets>
-      </extension>
-   </addon>
-   <addon id='skin.amber' version='3.2.58' name='Amber' provider-name='Jester, Joethepartylion, Pecinko, bsoriano'>
+   <addon id='skin.amber' version='3.2.92' name='Amber' provider-name='Jester, Joethepartylion, Pecinko, bsoriano'>
       <requires>
          <import addon='xbmc.gui' version='5.14.0'/>
          <import addon='script.favourites' version='7.1.1'/>
@@ -407,44 +364,21 @@
          <res width='1920' height='1080' aspect='16:9' default='true' folder='1080i'/>
       </extension>
       <extension point='xbmc.addon.metadata'>
-         <summary lang='cs_CZ'>Nic zbytečného, jenom vaše media a snadné ovládání</summary>
          <summary lang='de_DE'>Keine Bloatware, nur Ihre Medien mit einer leicht zu navigierenden Oberfläche</summary>
          <summary lang='en_AU'>No bloatware, just your media with an easy to navigate interface</summary>
          <summary lang='en_GB'>No bloatware, just your media with an easy to navigate interface</summary>
          <summary lang='en_NZ'>No bloatware, just your media with an easy to navigate interface</summary>
          <summary lang='en_US'>No bloatware, just your media with an easy to navigate interface</summary>
-         <summary lang='es_ES'>Sin chorradas, solo su contenido con una interfaz fácil de navegar</summary>
+         <summary lang='es_ES'>Sin excesos, solo su contenido con una interfaz fácil de navegar</summary>
          <summary lang='fi_FI'>
             Ei sisällä turhia lisäominaisuuksia. Yksinkertainen käyttöliittymä
             mediakirjastollesi.
          </summary>
          <summary lang='fr_CA'>Pas d’inflagiciel, juste vos médias avec une interface facile à parcourir</summary>
          <summary lang='fr_FR'>Pas d'usine à gaz, juste les médias avec une interface épurée</summary>
-         <summary lang='he_IL'>אין כלים נוספים, רק התקשורת שלך עם ממשק קל לניווט</summary>
-         <summary lang='hu_HU'>Semmi pazarlás, csak a médiáid, könnyen navigálható felülettel</summary>
-         <summary lang='is_IS'>Alls ekki óþarfa prjál, heldur bara margmiðlunarefnið þitt með einföldu viðmóti</summary>
          <summary lang='it_IT'>Skin leggera, i tuoi media con un'interfaccia semplice in cui navigare</summary>
-         <summary lang='ko_KR'>블로트웨어가 아닙니다. 쉬운 탐색 인터페이스를 가진 사용자의 미디어 자체입니다.</summary>
-         <summary lang='lt_LT'>Nieko nereikalingo, tik jūsų media įrašai ir lengvai valdoma vartotojo sąsaja</summary>
-         <summary lang='ms_MY'>Tiada perisian palsu, hanya media anda dengan antaramuka yang mudah dinavigasi</summary>
-         <summary lang='nb_NO'>
-            Ingen tunge og unødvendige funksjoner, bare dine media og ett
-            lettvint grensesnitt
-         </summary>
          <summary lang='nl_NL'>Geen bloatware, alleen jouw media in een makkelijk te navigeren omgeving</summary>
-         <summary lang='pl_PL'>Bez zbędnych funkcji, tylko Twoje media z intuicyjnym interfejsem</summary>
          <summary lang='pt_BR'>Sem bloatware, apenas sua mídia com uma interface fácil de navegar</summary>
-         <summary lang='sl_SI'>
-            Brez napihnjenega programja, zgolj vaši mediji z vmesnikom,
-            enostavnim za krmarjenje.
-         </summary>
-         <summary lang='zh_CN'>没有大的软件，只有你的媒体和易于浏览的界面</summary>
-         <summary lang='zh_TW'>只有您的影音和簡單的界面</summary>
-         <description lang='ar_SA'>بلا برمجيات متضخمة، فقط وسائط </description>
-         <description lang='cs_CZ'>
-            Nic zbytečného, jenom vaše media a snadné ovládání[CR] Použité
-            některé textury z projektů Mediastream a Aeon.
-         </description>
          <description lang='de_DE'>
             Keine Bloatware, nur Ihre Medien mit einer einfach zu navigierenden
             Oberfläche.[CR]Benutzt Texturen aus den Mediastream und Aeon skins.
@@ -466,7 +400,7 @@
             interface.[CR]Uses some textures from Mediastream and Aeon skins.
          </description>
          <description lang='es_ES'>
-            Sin chorradas, sólo su contenido con una interfaz fácil de
+            Sin excesos, sólo su contenido con una interfaz fácil de
             navegar.[CR]Utiliza algunas texturas de los skins Mediastream y
             Aeon.
          </description>
@@ -485,21 +419,6 @@
             une interface facile à utiliser.[CR]Utilise quelques textures
             provenant des habillages Mediastream et Aeon.
          </description>
-         <description lang='he_IL'>
-            מעטפת קלילה וללא רכיבים מיותרים, מאפשרת הצגת המדיה עם ממשק משתמש
-            פשוט לניווט.[CR]משתמשת במאפייני עיצוב מסוימים מהמעטפות Mediastream
-            ו-Aeon.
-         </description>
-         <description lang='hu_HU'>
-            Semmi pazarlás, csak a médiáid, könnyen navigálható
-            felülettel.[CR]Néhány textúra a Mediastream és Aeon felszínből
-            származik.
-         </description>
-         <description lang='is_IS'>
-            Alls ekki óþarfa prjál, heldur bara margmiðlunarefnið þitt með
-            einföldu viðmóti.[CR]Notar ýmsar áferðir úr Mediastream og Aeon
-            skinnunum.
-         </description>
          <description lang='it_IT'>
             Skin leggera, i tuoi media con un'interfaccia semplice in cui
             navigare.[CR]Usa alcuni elementi grafici delle skin Mediastream e
@@ -509,30 +428,10 @@
             블로트웨어가 아닌 그냥 쉬운 탐색 인터페이스를 가진 사용자의 미디어입니다.[CR]Mediastream 과 Aeon 스킨의
             텍스처를 사용하였습니다.
          </description>
-         <description lang='lt_LT'>
-            Nieko nereikalingo, tik jūsų media įrašai ir lengvai valdoma
-            vartotojo sąsaja. [CR] Naudoja kai kurias tekstūras iš Mediastream
-            ir Aeon temų.
-         </description>
-         <description lang='ms_MY'>
-            Bukan perisian palsu, hanya media anda dengan antaramuka yang mudah
-            dinavigasi.[CR]Gunakan beberapa tekstur dari kulit Mediastream dan
-            Aeon.
-         </description>
-         <description lang='nb_NO'>
-            Ingen tunge og unødvendige funksjoner, bare dine media og ett
-            lettvint grensesnitt.[CR]Noen teksturer er hentet fra Mediastream og
-            Aeon -draktene.
-         </description>
          <description lang='nl_NL'>
             Geen bloatware. alleen jouw media met een makkelijk te navigeren
             interface.[CR]Gebruikt sommige texturen van de Mediastream- en
             Aeonontwerpen.
-         </description>
-         <description lang='pl_PL'>
-            Bez bezużytecznych funkcji, tylko Twoje media z łatwym w nawigacji
-            interfejsem.[CR] Wykorzystuje niektóre tekstury skóry Mediastream i
-            Aeon
          </description>
          <description lang='pt_BR'>
             Sem excessos, apenas a sua mídia com uma interface fácil de navegar.
@@ -543,22 +442,6 @@
             de navegação simples.[CR]Utiliza algumas texturas dos temas
             Mediastream e Aeon.
          </description>
-         <description lang='ru_RU'>
-            Никаких вирусов, только ваши медиа файлы в простом
-            интерфейсе.[CR]Использует некоторые текстуры из тем Mediastream и
-            Aeon.
-         </description>
-         <description lang='sl_SI'>
-            Brez nepotrebnega, le vaše medijske datoteke z enostavnim
-            vmesnikom.[CR]Uporablja nekatere teksture iz tem Mediastream in
-            Aeon.
-         </description>
-         <description lang='sv_SE'>
-            Inget överflödigt, bara dina media med enkelt
-            navigeringsinterface.[CR]Använder texturer från skalen Mediastream
-            och Aeon.
-         </description>
-         <description lang='zh_CN'>没有花里胡哨的东西，只是你的媒体和易于浏览的界面。[CR]使用了一些来自 Mediastream 和 Aeon 皮肤的纹理材料.</description>
          <platform>all</platform>
          <license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
          <forum>https://forum.kodi.tv/forumdisplay.php?fid=203</forum>
@@ -578,31 +461,40 @@
             <screenshot>resources/screenshot10.jpg</screenshot>
          </assets>
          <news>
-            3.2.58 (06-04-2020) - Add per-view, per media type disable panel and
-            swap panel list view options - Add larger image option for pictures
-            in list views - Misc. Fixes 3.2.57 (30-03-2020) - Fix Up Next labels
-            - Misc. Fixes 3.2.56 (28-03-2020) - Separate options to show main
-            rating and cert in media views 3.2.55 (27-03-2020) - More Fixes for
-            default view when switching skins 3.2.54 (27-03-2020) - More Fixes
-            for default view when switching skins 3.2.53 (27-03-2020) - Fix for
-            default view when switching skins 3.2.52 (23-03-2020) - More fixes
-            for cutoff text in list views 3.2.51 (19-03-2020) - Fix cutoff text
-            in list view when audio/subs not shown - Add option to show/hide
-            main rating and MPAA in media views - Add option to select which
-            ratings are shown in video info - Add option to show/hide user
-            rating 3.2.50 (18-03-2020) - Fix label in French 3.2.49 (17-03-2020)
-            - More PVR fixes 3.2.48 (17-03-2020) - Fix for color of labels in
-            player process info - Fix for pvr recording widgets in horizontal
-            menu 3.2.47 (16-03-2020) - Fix for posters not changing in List
-            views - Fix for subtitle popup in Video OSD. Fix for Next Aired
-            images - Fix for icons in different dialogs - Fix for TV Shows with
-            no duration - Make Amber default backgrounds available as background
-            options - Misc. fixes in PVR 3.2.46 (09-03-2020) - Add
-            language/subtitle info to media views - Make info panel optional in
-            list views - Make channel groups optional in PVR Guide - Add clear
-            logo to home and appropriate media views - Make embuary helper and
-            tmdb helper optional - Custom Next Aired windows for embuary info
-            and tmdb helper - Misc. fixes 
+            3.2.92 (12-06-2020) - Three row shelves with larger icons - New View
+            Selector/Configurator (uses script.skinvariables) - Misc. Fixes
+            3.2.88 (06-06-2020) - Fixes to new alphabet strip for mouse use -
+            Fixes to fanart view 3.2.87 (04-06-2020) - Fixes to 3 shelves
+            together and triple row shelves - Change select dialog to show
+            bigger artwork - Option to shift Fanart view focus to the right -
+            Option for mouse/touch-friendly alphabet strip - Misc. fixes 3.2.86
+            (27-05-2020) - Up to 5 Custom Shelves - Option to show Three Shelves
+            Together - Option to show triple row shelves - Complete French
+            translation - Misc. fixes 3.2.84 (21-05-2020) - Option to show/hide
+            media play count in views - Fix showing time to go to when seeking
+            with numbers - More French language fixes - Misc. fixes 3.2.83
+            (20-05-2020) - Show song play count info in List views - Fix
+            collection count info for BigList view - Fix for mouse events in
+            VideoOSD - More French language fixes 3.2.82 (18-05-2020) - Make
+            optional settings for backgrounds and info lines - Fixes for fanart
+            view - Show play count for songs in media views - More French
+            language fixes 3.2.80 (15-05-2020) - Add banners for movies in icon
+            media views - Allow Embuary Helper for backgrounds for nodes - Fix
+            recently played tv shows shelf for Kodi 18.6 - Add option to limit
+            number of fanarts used for background - French language fixes 3.2.79
+            (09-05-2020) - Improve in progress icons (thanks newbii) - Fixes to
+            player process info 3.2.77 (08-05-2020) - Improve icons (thanks
+            newbii) - More fixes to hours and minutes display - Add Amber
+            version in skin settings - Provide basic video info in player
+            process info overlay - More fixes for German translation 3.2.76
+            (07-05-2020) - Fix duration when show hours and minutes is set - Fix
+            for German translation 3.2.75 (07-05-2020) - Move EH for Playlist
+            backgrounds to a per menu item option - Small fix to LibreELEC
+            settings 3.2.74 (06-05-2020) - Allow custom nodes as background and
+            statistics line - Option to use Embuary Helper for playlist
+            backgrounds - Allow using Kodi or Embuary Helper for home
+            backgrounds - Fix in German translation 3.2.73 (06-05-2020) - Skin
+            LibreELEC settings dialogs 
          </news>
       </extension>
    </addon>
