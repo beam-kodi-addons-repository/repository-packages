@@ -30,9 +30,8 @@ Repositar obsahuje
 ------------------
 
 * Titulky pro Kodi a XBMC (pouze Gotham)
-  * [serialzone.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.serialzone.cz) [ serialy ]
-  * [edna.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.edna.cz) [ serialy ]
   * [titulky.com](https://github.com/beam-kodi-addons-repository/service.subtitles.titulky.com) [ serialy a filmy ]
+  * [edna.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.edna.cz) [ serialy ]
   * [nextweek.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.nextweek.cz) [ serialy ]
 
 * Programy
