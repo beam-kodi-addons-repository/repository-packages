@@ -112,14 +112,6 @@ service.subtitles.titulky.com:
   :addon_id: service.subtitles.titulky.com
   :addon_version: 1.5.0
   :package_file: service.subtitles.titulky.com-1.5.0.zip
-service.upnext:
-  :type: gh-repository
-  :github_repository: im85288/service.upnext
-  :github_sha: 9332f82af4460c792ea72d76dbc5aabdaa80f7b4
-  :sha256: 0ad00e5db9229193ec8c1c0693df094d3edc35307f9e55cd33ac1ea3077ea19c
-  :addon_id: service.upnext
-  :addon_version: 1.0.3
-  :package_file: service.upnext-1.0.3.zip
 skin.amber:
   :type: gh-repository
   :github_repository: bartolomesoriano/skin.amber
