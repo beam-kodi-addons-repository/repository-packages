@@ -1,4 +1,13 @@
 ---
+plugin.video.dmd-czech.aktualne:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/plugin.video.dmd-czech.aktualne
+  :github_release: v2.0.6a
+  :github_filename: plugin.video.dmd-czech.aktualne-2.0.6a.zip
+  :sha256: 25863f0732c6ab369c96b1ac6267f2fe439c6e8269e000b9e4684c18b04ef069
+  :addon_id: plugin.video.dmd-czech.aktualne
+  :addon_version: 2.0.6a
+  :package_file: plugin.video.dmd-czech.aktualne-2.0.6a.zip
 repository.beam.xbmc-addons:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/repository.beam.xbmc-addons
