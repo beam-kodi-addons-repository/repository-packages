@@ -1,8 +1,8 @@
-name: Create kodi package and release
+name: Check hash
 on: [ push, pull_request ]
 
 jobs:
-  deployment:
+  test:
     runs-on: ubuntu-latest
     steps:
     - name: Set up Python 3.7
