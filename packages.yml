@@ -106,12 +106,12 @@ service.subtitles.nextweek.cz:
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
-  :github_release: v1.5.0
-  :github_filename: service.subtitles.titulky.com-1.5.0.zip
-  :sha256: 61d46c4694d6717f902ed3153cff2661e05c6925b711adc8d91efcfc55e70cca
+  :github_release: v1.5.1
+  :github_filename: service.subtitles.titulky.com-1.5.1.zip
+  :sha256: aba208b2571125c1c52ca7ccae370e6ef2be0925cd9cd2d71e88cfb139f71927
   :addon_id: service.subtitles.titulky.com
-  :addon_version: 1.5.0
-  :package_file: service.subtitles.titulky.com-1.5.0.zip
+  :addon_version: 1.5.1
+  :package_file: service.subtitles.titulky.com-1.5.1.zip
 skin.amber:
   :type: gh-repository
   :github_repository: bartolomesoriano/skin.amber
