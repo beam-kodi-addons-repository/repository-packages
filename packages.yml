@@ -124,11 +124,11 @@ service.subtitles.titulky.com:
 skin.amber:
   :type: gh-repository
   :github_repository: bartolomesoriano/skin.amber
-  :github_sha: 6e0a70f7b015305b51abb481c8ca558e0cf5c86e
-  :sha256: b98c2cc31ebfaff196a06753c55bb33a7434b663fdcf3062bb2de956a0d94b13
+  :github_sha: f644e8e9e49fd80c61877d30c39fb160ed8d931c
+  :sha256: 7e439b588ae0786ed4f34ad77d4c575b9ed2fd61f0b0fdcbe204823042f9eff0
   :addon_id: skin.amber
-  :addon_version: 3.2.92
-  :package_file: skin.amber-3.2.92.zip
+  :addon_version: 3.2.105
+  :package_file: skin.amber-3.2.105.zip
 weather.gismeteo:
   :type: gh-release
   :github_repository: vlmaksime/weather.gismeteo
