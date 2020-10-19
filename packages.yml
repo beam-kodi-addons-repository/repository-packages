@@ -42,6 +42,15 @@ script.module.simplecache:
   :addon_id: script.module.simplecache
   :addon_version: 1.0.16
   :package_file: script.module.simplecache-1.0.16.zip
+script.module.simpleplugin3:
+  :type: gh-release
+  :github_repository: romanvm/script.module.simpleplugin
+  :github_release: v3.0.3
+  :github_filename: script.module.simpleplugin3-3.0.3.zip
+  :sha256: f33898468b17dd7a03452150fd7817f5fd87206a2d79a59f0438fa4a7d1dab4c
+  :addon_id: script.module.simpleplugin3
+  :addon_version: 3.0.3
+  :package_file: script.module.simpleplugin3-3.0.3.zip
 script.skin.helper.service:
   :type: gh-repository
   :github_repository: kodi-community-addons/script.skin.helper.service
