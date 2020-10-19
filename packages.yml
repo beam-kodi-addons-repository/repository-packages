@@ -120,3 +120,12 @@ skin.amber:
   :addon_id: skin.amber
   :addon_version: 3.2.92
   :package_file: skin.amber-3.2.92.zip
+weather.gismeteo:
+  :type: gh-release
+  :github_repository: vlmaksime/weather.gismeteo
+  :github_release: v0.5.2
+  :github_filename: weather.gismeteo-0.5.2.zip
+  :sha256: 79d99e35ad4fb73c1ca13c18db856a6bfd28c9a7dc568d47ca8670abbc301f58
+  :addon_id: weather.gismeteo
+  :addon_version: 0.5.2
+  :package_file: weather.gismeteo-0.5.2.zip
