@@ -49,6 +49,7 @@ Repositar obsahuje
   * [skin.amber](https://github.com/bartolomesoriano/skin.amber)
   * [script.tv.show.next.aired](https://github.com/beam-kodi-addons-repository/script.tv.show.next.aired)
   * [weather.gismeteo](https://github.com/vlmaksime/weather.gismeteo)
+  * [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper)
 
 Statistiky (poslednich 14 dni)
 ----------------------------
