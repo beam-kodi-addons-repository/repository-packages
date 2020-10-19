@@ -8,6 +8,14 @@ plugin.video.dmd-czech.aktualne:
   :addon_id: plugin.video.dmd-czech.aktualne
   :addon_version: 2.0.6a
   :package_file: plugin.video.dmd-czech.aktualne-2.0.6a.zip
+plugin.video.themoviedb.helper:
+  :type: gh-repository
+  :github_repository: jurialmunkey/plugin.video.themoviedb.helper
+  :github_sha: 754a7807ffd3fa4d00b7024ca9a56d4db061f20e
+  :sha256: 89a595c49f66c2250ac094713ddaea9fc01333bf97f198f8996c19b069b98456
+  :addon_id: plugin.video.themoviedb.helper
+  :addon_version: 3.3.21
+  :package_file: plugin.video.themoviedb.helper-3.3.21.zip
 repository.beam.xbmc-addons:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/repository.beam.xbmc-addons
