@@ -45,10 +45,10 @@ Repositar obsahuje
   * [script.module.metadatautils](https://github.com/kodi-community-addons/script.module.metadatautils)
   * [script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service)
   * [script.skin.helper.widgets](https://github.com/kodi-community-addons/script.skin.helper.widgets)
-  * [script.module.simplecache](https://github.com/kodi-community-addons/script.module.simplecache)
   * [skin.amber](https://github.com/bartolomesoriano/skin.amber)
   * [script.tv.show.next.aired](https://github.com/beam-kodi-addons-repository/script.tv.show.next.aired)
   * [weather.gismeteo](https://github.com/vlmaksime/weather.gismeteo)
+  * [script.module.simpleplugin](https://romanvm/script.module.simpleplugin)
   * [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper)
 
 Statistiky (poslednich 14 dni)
