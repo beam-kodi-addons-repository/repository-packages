@@ -97,12 +97,12 @@ script.tvshowtime.rework:
 service.subtitles.edna.cz:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.edna.cz
-  :github_release: v1.4.0
-  :github_filename: service.subtitles.edna.cz-1.4.0.zip
-  :sha256: 03a155a45be957546bb729cda122a25c0725144ed9ef8b5e198520221942d826
+  :github_release: v2.0.0
+  :github_filename: service.subtitles.edna.cz-2.0.0.zip
+  :sha256: e6d50c4deb46eb816f075b559932e5ad1cae7f70ecadf56cb5d4baad4feaefb2
   :addon_id: service.subtitles.edna.cz
-  :addon_version: 1.4.0
-  :package_file: service.subtitles.edna.cz-1.4.0.zip
+  :addon_version: 2.0.0
+  :package_file: service.subtitles.edna.cz-2.0.0.zip
 service.subtitles.nextweek.cz:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.nextweek.cz
