@@ -1,0 +1,10 @@
+---
+repository.beam.xbmc-addons:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/repository.beam.xbmc-addons
+  :github_release: v1.1.0
+  :github_filename: repository.beam.xbmc-addons-1.1.0.zip
+  :sha256: 4db80fb9aa98377f957a9bae3c7b0f09c14899244d94802b19a0d147246add3a
+  :addon_id: repository.beam.xbmc-addons
+  :addon_version: 1.1.0
+  :package_file: repository.beam.xbmc-addons-1.1.0.zip
