@@ -17,3 +17,12 @@ script.tvpower.screensaver.control:
   :addon_id: script.tvpower.screensaver.control
   :addon_version: 1.1.0
   :package_file: script.tvpower.screensaver.control-1.1.0.zip
+service.subtitles.nextweek.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.nextweek.cz
+  :github_release: v1.4.1
+  :github_filename: service.subtitles.nextweek.cz-1.4.1.zip
+  :sha256: f44ed1827f975bb9cde2d3be5cb29b4ab88e16e07c924268dff05d6321835424
+  :addon_id: service.subtitles.nextweek.cz
+  :addon_version: 1.4.1
+  :package_file: service.subtitles.nextweek.cz-1.4.1.zip
