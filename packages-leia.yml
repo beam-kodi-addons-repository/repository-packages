@@ -8,6 +8,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.1.0
   :package_file: repository.beam.xbmc-addons-1.1.0.zip
+script.tv.show.next.aired:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/script.tv.show.next.aired
+  :github_release: v6.0.16c
+  :github_filename: script.tv.show.next.aired-6.0.16c.zip
+  :sha256: 62f627d2385a3806c2179b9dbdf63be260ce0321a0c0f074afe2fa0bb202922a
+  :addon_id: script.tv.show.next.aired
+  :addon_version: 6.0.16c
+  :package_file: script.tv.show.next.aired-6.0.16c.zip
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
