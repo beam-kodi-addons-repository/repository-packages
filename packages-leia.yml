@@ -26,6 +26,15 @@ script.tvpower.screensaver.control:
   :addon_id: script.tvpower.screensaver.control
   :addon_version: 1.1.0
   :package_file: script.tvpower.screensaver.control-1.1.0.zip
+service.subtitles.edna.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.edna.cz
+  :github_release: v1.4.1
+  :github_filename: service.subtitles.edna.cz-1.4.1.zip
+  :sha256: 80dc678e0b3065429f69cb2fb75510198246e84e628e9b2a9d02916d026a83a8
+  :addon_id: service.subtitles.edna.cz
+  :addon_version: 1.4.1
+  :package_file: service.subtitles.edna.cz-1.4.1.zip
 service.subtitles.nextweek.cz:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.nextweek.cz
