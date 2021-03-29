@@ -1,19 +1,20 @@
-Beam Kodi/XBMC Repository
+Beam Kodi Repository
 ===========================
 
 Instalace
 ---------
 
-- stahnete si archiv [repository.beam.xbmc-addons-1.0.3.zip](https://github.com/beam-kodi-addons-repository/repository.beam.xbmc-addons/releases/download/v1.0.3/repository.beam.xbmc-addons-1.0.3.zip)
+- Stahnete si archiv podle verze Kodi:
+  * [Kodi 18.x (Leia)](https://github.com/beam-kodi-addons-repository/repository-packages/raw/gh-pages/leia/packages/repository.beam.xbmc-addons/repository.beam.xbmc-addons-1.1.0.zip)
+  * [Kodi 19.x (Matrix)](https://github.com/beam-kodi-addons-repository/repository-packages/raw/gh-pages/matrix/packages/repository.beam.xbmc-addons/repository.beam.xbmc-addons-2.1.0.zip)
 - ulozte na flash disk, hard disk, nebo jine zarizeni dosazitelne v Kodi
 - spustte Kodi a zvolte Nastaveni -> Doplnky -> Instalace z archivu ZIP
-- najdete archiv repository.beam.xbmc-addons-1.0.3.zip a zvolte instalaci
+- najdete archiv s repositarem a zvolte instalaci
 - jednotlive doplnky je potom mozne instalovat pres Nastaveni -> Doplnky -> Instalovat z repozitare -> Beam Kodi Add-ons
 
 Podpora
 ---------
 - BTC: 1ADsQwi4MexntHavhgwvVuq8WEujwYpkpm
-- XMR: 4LE8568g1r17o212AusHstDzjnsc6tmWHHUinQ8ZWE7SERFgMRcPZVSAyo43exun9XLcEeiwyQAp4K8KmiWubtV3dPJzdN81tXhHdCg2LX
 
 Nastaveni
 ---------
@@ -30,26 +31,15 @@ Repositar obsahuje
 ------------------
 
 * Titulky pro Kodi a XBMC (pouze Gotham)
-  * [titulky.com](https://github.com/beam-kodi-addons-repository/service.subtitles.titulky.com) [ serialy a filmy ]
-  * [edna.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.edna.cz) [ serialy ]
-  * [nextweek.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.nextweek.cz) [ serialy ]
-
-* Programy
-  * [tvshowtime.com](https://github.com/beam-kodi-addons-repository/script.tvshowtime.rework) [ serialy ]
+  * [titulky.com](https://github.com/beam-kodi-addons-repository/service.subtitles.titulky.com) [ Leia / Matrix ]
+  * [edna.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.edna.cz) [ Leia / Matrix ]
+  * [nextweek.cz](https://github.com/beam-kodi-addons-repository/service.subtitles.nextweek.cz) [ Leia ]
 
 * Sluzby
-  * [turn off/on TV](https://github.com/beam-kodi-addons-repository/script.tvpower.screensaver.control) [ zapne a vypne TV pres CEC ]
+  * [turn off/on TV](https://github.com/beam-kodi-addons-repository/script.tvpower.screensaver.control) [ Leia i Matrix ]
   
 * Ostatni
-  * [script.module.cherrypy](https://github.com/kodi-community-addons/script.module.cherrypy)
-  * [script.module.metadatautils](https://github.com/kodi-community-addons/script.module.metadatautils)
-  * [script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service)
-  * [script.skin.helper.widgets](https://github.com/kodi-community-addons/script.skin.helper.widgets)
-  * [skin.amber](https://github.com/bartolomesoriano/skin.amber)
-  * [script.tv.show.next.aired](https://github.com/beam-kodi-addons-repository/script.tv.show.next.aired)
-  * [weather.gismeteo](https://github.com/vlmaksime/weather.gismeteo)
-  * [script.module.simpleplugin](https://romanvm/script.module.simpleplugin)
-  * [plugin.video.themoviedb.helper](https://github.com/jurialmunkey/plugin.video.themoviedb.helper)
+  * [script.tv.show.next.aired](https://github.com/beam-kodi-addons-repository/script.tv.show.next.aired) [ Leia ]
 
 Statistiky (poslednich 14 dni)
 ----------------------------
