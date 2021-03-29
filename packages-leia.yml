@@ -35,3 +35,12 @@ service.subtitles.nextweek.cz:
   :addon_id: service.subtitles.nextweek.cz
   :addon_version: 1.4.1
   :package_file: service.subtitles.nextweek.cz-1.4.1.zip
+service.subtitles.titulky.com:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
+  :github_release: v1.6.2
+  :github_filename: service.subtitles.titulky.com-1.6.2.zip
+  :sha256: 15e9b51c8ffef42340bcb727fe7e5b2da668b472044ca1bb01495e1a566ebea7
+  :addon_id: service.subtitles.titulky.com
+  :addon_version: 1.6.2
+  :package_file: service.subtitles.titulky.com-1.6.2.zip
