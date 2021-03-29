@@ -17,3 +17,12 @@ script.tvpower.screensaver.control:
   :addon_id: script.tvpower.screensaver.control
   :addon_version: 2.0.0
   :package_file: script.tvpower.screensaver.control-2.0.0.zip
+service.subtitles.titulky.com:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
+  :github_release: v2.0.1
+  :github_filename: service.subtitles.titulky.com-2.0.1.zip
+  :sha256: a547e3f5de184a53e873d1c3ced7a7b5ebfb9df08aca494f46ece2c1b2620db9
+  :addon_id: service.subtitles.titulky.com
+  :addon_version: 2.0.1
+  :package_file: service.subtitles.titulky.com-2.0.1.zip
