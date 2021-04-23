@@ -29,9 +29,9 @@ service.subtitles.edna.cz:
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
-  :github_release: v2.0.1
-  :github_filename: service.subtitles.titulky.com-2.0.1.zip
-  :sha256: a547e3f5de184a53e873d1c3ced7a7b5ebfb9df08aca494f46ece2c1b2620db9
+  :github_release: v2.0.2
+  :github_filename: service.subtitles.titulky.com-2.0.2.zip
+  :sha256: 54a0927d49881676932d3c9a55fcc324f13f6b2d236da055721d16104e553fb1
   :addon_id: service.subtitles.titulky.com
-  :addon_version: 2.0.1
-  :package_file: service.subtitles.titulky.com-2.0.1.zip
+  :addon_version: 2.0.2
+  :package_file: service.subtitles.titulky.com-2.0.2.zip
