@@ -20,12 +20,12 @@ script.tvpower.screensaver.control:
 service.subtitles.edna.cz:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.edna.cz
-  :github_release: v2.0.1
-  :github_filename: service.subtitles.edna.cz-2.0.1.zip
-  :sha256: 22fbc51c13ec076cfd4c991da5b8567f0c23320d88a180453d3d9b377415a83b
+  :github_release: v2.0.2
+  :github_filename: service.subtitles.edna.cz-2.0.2.zip
+  :sha256: 54938a04189b5006157b3b8b8ece3163bd3ce51c13d09e621db2c2b8e522b2c4
   :addon_id: service.subtitles.edna.cz
-  :addon_version: 2.0.1
-  :package_file: service.subtitles.edna.cz-2.0.1.zip
+  :addon_version: 2.0.2
+  :package_file: service.subtitles.edna.cz-2.0.2.zip
 service.subtitles.titulky.com:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/service.subtitles.titulky.com
