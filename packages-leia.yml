@@ -1,4 +1,13 @@
 ---
+plugin.video.aktualne.cz:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/plugin.video.aktualne.cz
+  :github_release: v2.2.7
+  :github_filename: plugin.video.aktualne.cz-2.2.7.zip
+  :sha256: b34549319ae9c1df7a5edcd42058e20366726c5584b66c17f968471d50b62a75
+  :addon_id: plugin.video.aktualne.cz
+  :addon_version: 2.2.7
+  :package_file: plugin.video.aktualne.cz-2.2.7.zip
 repository.beam.xbmc-addons:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/repository.beam.xbmc-addons
