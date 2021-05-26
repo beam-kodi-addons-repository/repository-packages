@@ -1,5 +1,29 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <addons>
+   <addon id='plugin.video.aktualne.cz' name='Aktuálně.cz' version='2.2.7' provider-name='wombat'>
+      <requires>
+         <import addon='xbmc.python' version='2.26.0'/>
+         <import addon='script.module.requests' version='2.22.0'/>
+         <import addon='script.module.beautifulsoup4' version='4.6.2'/>
+         <import addon='script.module.routing' version='0.2.3'/>
+         <import addon='script.module.dateutil' version='2.8.1'/>
+      </requires>
+      <extension point='xbmc.python.pluginsource' library='main.py'>
+         <provides>video</provides>
+      </extension>
+      <extension point='xbmc.addon.metadata'>
+         <platform>all</platform>
+         <summary lang='en_GB'>Aktuálně.cz</summary>
+         <summary lang='cs_CZ'>Aktuálně.cz</summary>
+         <description lang='en_GB'>Aktuálně.cz - kompletní zpravodajství, zprávy z domova i ze světa</description>
+         <description lang='cs_CZ'>Aktuálně.cz - kompletní zpravodajství, zprávy z domova i ze světa</description>
+         <source>https://github.com/xbmc-kodi-cz/plugin.video.aktualne.cz</source>
+         <assets>
+            <icon>resources/icon.png</icon>
+         </assets>
+         <news> - Změna na webu </news>
+      </extension>
+   </addon>
    <addon id='repository.beam.xbmc-addons' name='Beam Kodi Add-ons (Leia)' version='1.1.0' provider-name='Beam'>
       <extension point='xbmc.addon.repository' name='Beam Kodi Add-ons Repository (Leia)'>
          <info compressed='false'>https://xbmc-repo.bimovi.cz/leia/addons.xml</info>
