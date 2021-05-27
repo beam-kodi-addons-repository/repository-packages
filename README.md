@@ -40,6 +40,7 @@ Repositar obsahuje
   
 * Ostatni
   * [script.tv.show.next.aired](https://github.com/beam-kodi-addons-repository/script.tv.show.next.aired) [ Leia ]
+  * [plugin.video.aktualne.cz](https://github.com/beam-kodi-addons-repository/plugin.video.aktualne.cz) [ Leia ]
 
 Statistiky (poslednich 14 dni)
 ----------------------------
