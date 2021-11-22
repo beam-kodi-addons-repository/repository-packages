@@ -17,6 +17,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 1.1.0
   :package_file: repository.beam.xbmc-addons-1.1.0.zip
+script.trakt-lite:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/script.trakt-lite
+  :github_release: v0.0.1
+  :github_filename: script.trakt-lite-0.0.1.zip
+  :sha256: 1a8713acbac28b8913a22fff2d413e2c96cc4731fb98b020fbb3fa9eb144976f
+  :addon_id: script.trakt-lite
+  :addon_version: 0.0.1
+  :package_file: script.trakt-lite-0.0.1.zip
 script.tv.show.next.aired:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tv.show.next.aired
