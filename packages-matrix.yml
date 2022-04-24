@@ -11,9 +11,9 @@ repository.beam.xbmc-addons:
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
-  :github_release: v2.1.0
+  :github_release: v2.1.1
   :github_filename: script.tvpower.screensaver.control-2.1.0.zip
-  :sha256: 9d2abd7522ade394d3e7d97618570405e121c81bb7f75a82be51b43de202bd63
+  :sha256: d670ed74a3509b24b949cc4c09bb1534b2bb5a46c76a22b1b4db4aa2faa74396
   :addon_id: script.tvpower.screensaver.control
   :addon_version: 2.1.0
   :package_file: script.tvpower.screensaver.control-2.1.0.zip
