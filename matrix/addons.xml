@@ -14,7 +14,7 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
-   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='2.1.0' provider-name='Beam'>
+   <addon id='script.tvpower.screensaver.control' name='TV power controller' version='2.1.1' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='3.0.0'/>
       </requires>
