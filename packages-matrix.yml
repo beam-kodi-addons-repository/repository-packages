@@ -1,4 +1,13 @@
 ---
+metadata.tvshows.themoviedb.org.python:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/metadata.tvshows.themoviedb.org.python
+  :github_release: v1.4.11a
+  :github_filename: metadata.tvshows.themoviedb.org.python-1.4.11a.zip
+  :sha256: d6a1d6f5964ad5952c481236fa9a80a80d4e594c2bd829caf6aed4b5b0fca882
+  :addon_id: metadata.tvshows.themoviedb.org.python
+  :addon_version: 1.4.11a
+  :package_file: metadata.tvshows.themoviedb.org.python-1.4.11a.zip
 repository.beam.xbmc-addons:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/repository.beam.xbmc-addons
