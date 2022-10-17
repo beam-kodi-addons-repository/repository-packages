@@ -17,6 +17,15 @@ repository.beam.xbmc-addons:
   :addon_id: repository.beam.xbmc-addons
   :addon_version: 2.1.0
   :package_file: repository.beam.xbmc-addons-2.1.0.zip
+script.trakt-lite:
+  :type: gh-release
+  :github_repository: beam-kodi-addons-repository/script.trakt-lite
+  :github_release: v0.0.2
+  :github_filename: script.trakt-lite-0.0.2.zip
+  :sha256: 457100150f1e16a6b071a2f3af86aeb74d3b77c87f5a2db8c7e4798fa4e6f7cb
+  :addon_id: script.trakt-lite
+  :addon_version: 0.0.2
+  :package_file: script.trakt-lite-0.0.2.zip
 script.tvpower.screensaver.control:
   :type: gh-release
   :github_repository: beam-kodi-addons-repository/script.tvpower.screensaver.control
