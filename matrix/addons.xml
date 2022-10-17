@@ -206,6 +206,58 @@
          <email>ondra@bimovi.cz</email>
       </extension>
    </addon>
+   <addon id='script.trakt-lite' name='Trakt Lite' version='0.0.2' provider-name='Trakt.tv, Razzeee, Beam'>
+      <requires>
+         <import addon='xbmc.python' version='3.0.0'/>
+         <import addon='script.module.trakt' version='4.4.0'/>
+         <import addon='script.module.dateutil' version='2.8.1'/>
+      </requires>
+      <extension point='xbmc.python.script' library='defaultscript.py'>
+         <provides>executable</provides>
+      </extension>
+      <extension point='xbmc.service' name='trakt.service' library='default.py'/>
+      <extension point='xbmc.addon.metadata' name='trakt.metadata'>
+         <platform>all</platform>
+         <license> GPL-2.0-only</license>
+         <forum>https://forum.kodi.tv/showthread.php?tid=220547</forum>
+         <website>https://trakt.tv</website>
+         <source>https://github.com/trakt/script.trakt</source>
+         <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>resources/image-01.png</screenshot>
+            <screenshot>resources/image-02.png</screenshot>
+            <screenshot>resources/image-03.png</screenshot>
+         </assets>
+         <summary lang='en_GB'>TV and movie scrobbler for Trakt.tv</summary>
+         <description lang='en_GB'>
+            Automatically scrobble all TV episodes and movies you are watching
+            to Trakt.tv! Keep a comprehensive history of everything you&apos;ve
+            watched and be part of a global community of TV and movie
+            enthusiasts. Sign up for a free account at http://trakt.tv and get a
+            ton of features:[CR][CR]- Automatically scrobble what you&apos;re
+            watching[CR]- Mobile apps for iPhone, iPad, Android, and Windows
+            Phone[CR]- Share what you&apos;re watching (in real time) and rating
+            to facebook and twitter[CR]- Personalized calendar so you never miss
+            a TV show[CR]- Follow your friends and people you&apos;re interesed
+            in[CR]- Use watchlists so you don&apos;t forget to what to
+            watch[CR]- Track your media collections and impress your
+            friends[CR]- Create custom lists around any topics you choose[CR]-
+            Easily track your TV show progress across all seasons and
+            episodes[CR]- Track your progress against industry lists such as the
+            IMDb Top 250[CR]- Discover new shows and movies based on your
+            viewing habits[CR]- Widgets for your forum signature[CR][CR]What can
+            this addon do?[CR][CR]- Automatically scrobble all TV episodes and
+            movies you are watching[CR]- Sync your TV episode and movie
+            collections to Trakt (triggered after a library update)[CR]- Auto
+            clean your Trakt collection so that it matches up with Kodi[CR]-
+            Keep watched statuses synced between Kodi and Trakt[CR]- Rate movies
+            and episode after watching them[CR][CR]Special thanks to all who
+            contributed to this plugin! Check the commit history and changelog
+            to see these talented developers.
+         </description>
+      </extension>
+   </addon>
    <addon id='script.tvpower.screensaver.control' name='TV power controller' version='2.1.1' provider-name='Beam'>
       <requires>
          <import addon='xbmc.python' version='3.0.0'/>
